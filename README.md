@@ -1,2 +1,3 @@
 # MSSQL-Linked-Server-Decryptor
-Decrypt Microsoft SQL Linked Server Passwords
+
+Automatically retrieve and decrypt MSSQL Linked Server Passwords.
