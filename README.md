@@ -1,3 +1,3 @@
 # MSSQL Linked Server Password Decryptor
 
-Automatically retrieve and decrypt MSSQL Linked Server Passwords.
+Retrieve and Decrypt Microsoft SQL Linked Server Passwords. 
